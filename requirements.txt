@@ -1,0 +1,6 @@
+python-dotenv
+loguru
+pandas
+numpy
+pytz
+dateutil
